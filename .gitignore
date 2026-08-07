@@ -1,9 +1,0 @@
-# Compiled Java files
-*.class
-
-# Build folders
-bin/
-out/
-
-# VS Code settings
-.vscode/
